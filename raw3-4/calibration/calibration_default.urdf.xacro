@@ -14,10 +14,10 @@
 	
 	<!--arm mount positions | relative to base_link-->
 	<property name="def_arm_x" value="0.354"/>
-	<property name="def_arm_y" value="-0.227"/>
-	<property name="def_arm_z" value="0.722"/>
-	<property name="def_arm_roll" value="0"/>
-	<property name="def_arm_pitch" value="0"/>
-	<property name="def_arm_yaw" value="-1.55"/>
+	<property name="def_arm_y" value="-0.155"/>
+	<property name="def_arm_z" value="0.65"/>
+	<property name="def_arm_roll" value="-1.59"/>
+	<property name="def_arm_pitch" value="1.59"/>
+	<property name="def_arm_yaw" value="0"/>
 	
 </robot>
